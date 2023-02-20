@@ -1,4 +1,4 @@
-# imc-app
+# IMC-APP
 
 ## Esta app calcula tu Indice de Masa Corporal, basandose en tu altura(cm) y peso(kg)
 

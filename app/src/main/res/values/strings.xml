@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">IMC App</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="todo">TODO</string>
+    <string name="height">Altura</string>
+    <string name="cm_medida_init">120 cm</string>
+    <string name="weight">Peso (KG)</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="recalculate">Recalcular</string>
+    <string name="result">Tu resultado</string>
+
+    <string name="error">Error</string>
+
+    <string name="title_bajo_peso">Bajo Peso</string>
+    <string name="descrition_bajo_peso">Estas por debajo de lo optimo para tu peso y altura</string>
+
+    <string name="title_peso_normal">Peso Normal</string>
+    <string name="descrition_peso_normal">Estas muy bien para tu peso y altura</string>
+
+    <string name="title_sobre_peso">Sobre Peso</string>
+    <string name="descrition_sobre_peso">Estas por encima de lo optimo para tu peso y altura</string>
+    v
+
+    <string name="title_obesidad">Obesidad</string>
+    <string name="descrition_obesidad">Estas muy por encima de lo optimo para tu peso y altura</string>
+</resources>
